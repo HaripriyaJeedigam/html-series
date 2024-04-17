@@ -1,0 +1,23 @@
+color
+background-color
+width
+height
+measurement units
+pixels
+percentage
+border
+units border-style-color
+
+
+
+>>>>Text Decoration
+1 span
+2 text-align
+3.word-spacing
+4.letter-spacing
+>>box sizing
+box-sizing:border-box;
+box-sizing:content-box;==default
+/*box sizing border box makes sure that the padding should nt toggle the width and height of the container*/
+vw ->viewport width->viewport height
+by default body will have some width and 0px of height
